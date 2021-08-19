@@ -1,0 +1,106 @@
+.imgBg {
+    background-size:100% 100%;
+    min-width: 650px;
+    padding-top: 200px;
+    padding-left: 150px;
+    /* background-size:100% 100%; */
+}
+.myText {
+    font-size: 30px;
+    font-weight: 900;
+}
+.myText2 {
+    /* font-weight: 300; */
+    font-size: 15px;
+    width: 350px;
+}
+.imageHippo {
+    max-width: 400px;
+    margin-bottom: 27px;
+}
+.packImg {
+    width: 337px;
+    height: 140px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.myBtn {
+    background-color: #ff3366;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 33px;
+    padding-left: 33px;
+    border-radius: 5px;
+    border: none;
+}
+.btnText {
+    color: #fff;
+}
+.myContainer {
+    padding-left: 55px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+.barlo {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.myText {
+    margin-top: 12px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.detail {
+    background-color: #6FCF97;
+    height: 10px;
+}
+.detailText {
+    color: white;
+}
+.detail {
+    color: white;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+.userItemC {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.itemBox {
+    width: 140px;
+    margin: 5px;
+    height: 70px;
+    border-radius: 10px;
+    border: 0.4px solid #B5B5C2;
+    padding-top: 4px;
+    padding-left: 7px;
+}
+.itemText {
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 123%;
+}
+.h3class {
+    text-align: end;
+    margin-right: 7px;
+    font-weight: 600;
+    color: #72D49D;
+}

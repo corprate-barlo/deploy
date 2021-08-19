@@ -1,0 +1,21 @@
+table {
+    font-family: arial, sans-serif;
+    min-width: 860px;
+  }
+  
+  td{
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+}
+
+  th {
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+  }
+  
+  .ourP {
+      display: flex;
+      flex-direction: row;
+  }
